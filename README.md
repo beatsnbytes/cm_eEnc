@@ -17,6 +17,9 @@ The "common/" directory contains libraries needed by the baseline software versi
 Do not hesitate to contact us for any doubt or help to reproduce our results!
 This project is a work in progress and we will keep on updating both this README file as well as the respective source code.
 
+## Paper
+This code accompanies: [Leveraging HLS for a High-Performance Classic McEliece Accelerator](https://doi.org/10.1145/3698395) — ACM TECS 2025
+
 
 
 
